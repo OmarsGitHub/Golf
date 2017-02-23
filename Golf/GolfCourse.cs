@@ -8,7 +8,7 @@ namespace Golf
 {
     class GolfCourse
     {
-        
+        //Ny
         double DistanceToGoal;
 
         /// <summary>
